@@ -2,10 +2,10 @@
 Data analyst who transforms complex data into strategic business growth. I specialize in Python, SQL, and predictive analytics to solve real problems, from developing AI models for deepfake detection to implementing operational optimization and sustainability analytics projects. My approach combines technical expertise with business strategy, delivering actionable insights that drive measurable results. I'm seeking opportunities with forward-thinking organizations that want to leverage data for competitive advantage and digital transformation. Let's discuss how I can help turn your data challenges into growth opportunities.
 
 ### Education
-Machine Learning Certification 2025 
-- DSI, University of Toronto
-Electrical Engineering, B.Tech 2017
-- Indian Institute of Technology, Hyderabad
+- Machine Learning Certification 2025
+  - DSI, University of Toronto
+- Electrical Engineering, B.Tech 2017
+  - Indian Institute of Technology, Hyderabad
 
 ### Work Experience
 Marketing Analyst | Digital Receipt Activation Strategy	April 2024 - July 2024
